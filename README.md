@@ -1,0 +1,1 @@
+This is tabs component for react which is able to save the chosen tab after page refresh. 
